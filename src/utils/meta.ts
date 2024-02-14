@@ -48,8 +48,8 @@ export const siteMetadata: Metadata = {
     },
     twitter: {
         card: "summary_large_image",
-        title,
-        description,
+        title: title,
+        description: description,
         creator: "@emrhatalay",
     },
 };
